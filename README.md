@@ -139,10 +139,3 @@ Name: Valentine Achieng
 Course: Information Communication Technology  
 Project: SmartBiz System  
 ```
-
----
-
-If you want next, I can help you:
-- add **screenshots section (very important for marks)**
-- add **database schema**
-- or make it look like a **final year project report (PDF ready)**
